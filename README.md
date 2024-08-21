@@ -6,10 +6,17 @@
 
 **DOMAIN**: Python Programming
 
-**Mentor**: Muhammad Muzammil ahemd
+**Mentor**: Muhammad Muzammil Ahemd
 
 
 ## Project Overview: Simple Calculator
+![image](https://github.com/user-attachments/assets/6d86ab8c-d41c-454b-8031-bbe8e95344a2)
+![image](https://github.com/user-attachments/assets/e93bd44b-6c0b-49e9-b063-33d2b9cc3ad7)
+![image](https://github.com/user-attachments/assets/79523d23-9d52-43a5-bbc8-b7c398806d20)
+![image](https://github.com/user-attachments/assets/77c6f365-ca66-40e8-9318-76e9e3ddc96e)
+
+
+
 
 ### Purpose
 The Simple Calculator project aims to create a basic tool that performs fundamental arithmetic operations. This project is ideal for beginners to practice programming concepts and understand how to handle user inputs and outputs.
